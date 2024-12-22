@@ -1,6 +1,7 @@
 # BadUSB Scripts
 
-![BadUSB Banner](https://bobhinio.pl/assets/BadUsbBanner.webp){width=10 height=10}
+<img src="https://bobhinio.pl/assets/BadUsbBanner.webp" width="200" />
+
 
 This repository contains BadUSB scripts for various use cases. Use them responsibly.
 
