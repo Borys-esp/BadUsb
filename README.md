@@ -1,6 +1,6 @@
 # BadUSB Scripts
 
-![BadUSB Banner](assets/banner.png)
+![BadUSB Banner](https://bobhinio.pl/assets/BadUsbBanner.webp)
 
 This repository contains BadUSB scripts for various use cases. Use them responsibly.
 
