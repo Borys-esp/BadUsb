@@ -14,8 +14,7 @@ This repository contains BadUSB scripts for various use cases. Use them responsi
 The files and scripts provided here are shared as-is, without any guarantees. The author cannot be held responsible for any issues or consequences arising from their use. Please use them responsibly and in compliance with applicable laws.
 
 ---
-
-
+&nbsp;
 ### Scripts For:
 ## [Windows](Windows/)
 ## [Ios](Ios/)
