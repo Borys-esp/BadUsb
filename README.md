@@ -16,12 +16,11 @@ The files and scripts provided here are shared as-is, without any guarantees. Th
 ---
 &nbsp;
 ## Scripts For:
-## [Windows](Windows/)
-## [Ios](Ios/)
-## [Android](Android/)
-## [ChromeBook](ChromeBook/)
-
-
+### [Windows](Windows/)
+### [Ios](Ios/)
+### [Android](Android/)
+### [ChromeBook](ChromeBook/)
+&nbsp;
 ### How to Use BadUsb
 1. Flash the script to your BadUSB device for exampe: M5stick/FlipperZero.
 2. Plug the device into a target machine.
