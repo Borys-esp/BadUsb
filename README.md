@@ -10,18 +10,17 @@ This repository contains BadUSB scripts for various use cases. Use them responsi
 - Compatible with standard BadUSB devices
 
 ---
-
 ## DISCLAIMER
 The files and scripts provided here are shared as-is, without any guarantees. The author cannot be held responsible for any issues or consequences arising from their use. Please use them responsibly and in compliance with applicable laws.
-
 ---
+
+
 ### Scripts For:
 ## [Windows](Windows/)
 ## [Ios](Ios/)
 ## [Android](Android/)
 ## [ChromeBook](ChromeBook/)
 
----
 
 ### How to Use BadUsb
 1. Flash the script to your BadUSB device for exampe: M5stick/FlipperZero.
